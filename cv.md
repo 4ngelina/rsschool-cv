@@ -29,7 +29,11 @@ public class Multiply {
     }
 }
 ```
-
+## Education
+* Belarusian State Technological University 
+> Faculty of Information Technology.
+> Information systems and technologies
+ 
 ## Languages
 - Russian 
 - Belarussian
