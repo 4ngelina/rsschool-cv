@@ -19,6 +19,7 @@
 -  Figma
 -  Adobe Photoshop 
 -  Adobe Illustrator
+-  SQL
  ## Code examples
 ```
 public class Multiply {
