@@ -10,6 +10,7 @@
 | GitHub |[https://github.com/4ngelina](https://github.com/4ngelina) |
 | telegram | @caxap.cok |
 | Diskord | tupo angel#3432|
+| phone number| +375(29)827-98-68|
 
 ## Skills
 
